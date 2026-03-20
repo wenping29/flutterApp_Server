@@ -1,0 +1,25 @@
+2026/03/19-16:49:45.299 135c Reusing MANIFEST C:\Users\fuwen\AppData\Local\Temp\flutter_tools.ef050af2\flutter_tools_chrome_device.e25aeec1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/19-16:49:45.302 135c Recovering log #6
+2026/03/19-16:49:45.303 135c Reusing old log C:\Users\fuwen\AppData\Local\Temp\flutter_tools.ef050af2\flutter_tools_chrome_device.e25aeec1\Default\Local Storage\leveldb/000006.log 
+2026/03/19-16:49:45.303 135c Delete type=0 #3
+2026/03/19-17:33:51.952 3304 Level-0 table #10: started
+2026/03/19-17:33:51.955 3304 Level-0 table #10: 91061 bytes OK
+2026/03/19-17:33:51.956 3304 Delete type=0 #6
+2026/03/19-17:33:58.473 3304 Level-0 table #12: started
+2026/03/19-17:33:58.476 3304 Level-0 table #12: 139284 bytes OK
+2026/03/19-17:33:58.478 3304 Delete type=0 #9
+2026/03/19-17:34:56.005 3304 Level-0 table #14: started
+2026/03/19-17:34:56.008 3304 Level-0 table #14: 84953 bytes OK
+2026/03/19-17:34:56.009 3304 Delete type=0 #11
+2026/03/19-17:45:33.009 3304 Level-0 table #16: started
+2026/03/19-17:45:33.011 3304 Level-0 table #16: 21548 bytes OK
+2026/03/19-17:45:33.012 3304 Delete type=0 #13
+2026/03/19-17:45:33.013 3304 Compacting 4@0 + 1@1 files
+2026/03/19-17:45:33.018 3304 Generated table #17@0: 108 keys, 332113 bytes
+2026/03/19-17:45:33.018 3304 Compacted 4@0 + 1@1 files => 332113 bytes
+2026/03/19-17:45:33.019 3304 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/19-17:45:33.019 3304 Delete type=2 #7
+2026/03/19-17:45:33.019 3304 Delete type=2 #10
+2026/03/19-17:45:33.019 3304 Delete type=2 #12
+2026/03/19-17:45:33.019 3304 Delete type=2 #14
+2026/03/19-17:45:33.019 3304 Delete type=2 #16
