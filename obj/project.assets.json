@@ -1561,11 +1561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\flutterApp\\myapp_server\\ChatServer.csproj",
+      "projectUniqueName": "D:\\Project\\flutterApp_Server\\ChatServer.csproj",
       "projectName": "ChatServer",
-      "projectPath": "D:\\Project\\flutterApp\\myapp_server\\ChatServer.csproj",
+      "projectPath": "D:\\Project\\flutterApp_Server\\ChatServer.csproj",
       "packagesPath": "C:\\Users\\fuwen\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\flutterApp\\myapp_server\\obj\\",
+      "outputPath": "D:\\Project\\flutterApp_Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fuwen\\AppData\\Roaming\\NuGet\\NuGet.Config"

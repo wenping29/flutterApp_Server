@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DNqXziwWqSs=",
+  "dgSpecHash": "uagcPXikYDY=",
   "success": true,
-  "projectFilePath": "D:\\Project\\flutterApp\\myapp_server\\ChatServer.csproj",
+  "projectFilePath": "D:\\Project\\flutterApp_Server\\ChatServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fuwen\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
     "C:\\Users\\fuwen\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
